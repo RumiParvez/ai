@@ -1,5 +1,5 @@
 import React from 'react';
-import { Check, Zap, Shield, CreditCard, Clock } from 'lucide-react';
+import { Check, Zap, CreditCard } from 'lucide-react';
 
 export const Subscriptions: React.FC = () => {
   return (

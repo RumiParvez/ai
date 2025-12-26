@@ -1,5 +1,5 @@
 import React from 'react';
-import { Megaphone, TrendingUp, Users, Target, BarChart2, Mail } from 'lucide-react';
+import { Megaphone, TrendingUp, Users, Target, BarChart2, Mail, Plus, ChevronRight } from 'lucide-react';
 
 export const Marketing: React.FC = () => {
   return (
@@ -113,6 +113,3 @@ export const Marketing: React.FC = () => {
     </div>
   );
 };
-
-// Helper for the chevron
-import { Plus, ChevronRight } from 'lucide-react';
